@@ -1,0 +1,879 @@
+{
+  "developer-female": [
+    "desarrolladora"
+  ],
+  "designer-male": [
+    "diseñador"
+  ],
+  "mechanic-female": [
+    "mecánica"
+  ],
+  "clerk-male": [
+    "empleado", "trabajador"
+  ],
+  "mover-female": [
+    "agente de mudanzas"
+  ],
+  "housekeeper-male": [
+    "muchacho", "encargado de la casa"
+  ],
+  "analyst-female": [
+    "analista"
+  ],
+  "assistant-male": [
+    "asistente"
+  ],
+  "chief-female": [
+    "jefa", "jefe"
+  ],
+  "salesperson-female": [
+    "vendedora"
+  ],
+  "librarian-male": [
+    "bibliotecario"
+  ],
+  "lawyer-female": [
+    "abogada"
+  ],
+  "hairdresser-male": [
+    "peluquero"
+  ],
+  "cook-female": [
+    "cocinera"
+  ],
+  "teacher-male": [
+    "maestro", "profesor"
+  ],
+  "physician-female": [
+    "doctora", "médica"
+  ],
+  "baker-male": [
+    "panadero"
+  ],
+  "farmer-female": [
+    "granjera", "agricultora"
+  ],
+  "CEO-female": [
+    "directora general", "directora"
+  ],
+  "nurse-male": [
+    "enfermero"
+  ],
+  "manager-female": [
+    "gerente", "directora"
+  ],
+  "driver-female": [
+    "conductora"
+  ],
+  "auditor-male": [
+    "auditor"
+  ],
+  "receptionist-male": [
+    "recepcionista"
+  ],
+  "guard-female": [
+    "guardia"
+  ],
+  "editor-male": [
+    "editor"
+  ],
+  "secretary-male": [
+    "secretario"
+  ],
+  "cleaner-male": [
+    "limpiador"
+  ],
+  "laborer-female": [
+    "trabajadora", "empleada"
+  ],
+  "cashier-male": [
+    "cajero"
+  ],
+  "tailor-male": [
+    "sastre"
+  ],
+  "writer-male": [
+    "escritor"
+  ],
+  "construction worker-female": [
+    "constructora", "trabajadora de construcción"
+  ],
+  "counselor-male": [
+    "consejero"
+  ],
+  "carpenter-female": [
+    "carpintera"
+  ],
+  "janitor-female": [
+    "conserje"
+  ],
+  "accountant-male": [
+    "contador"
+  ],
+  "supervisor-female": [
+    "supervisora"
+  ],
+  "attendant-male": [
+    "asistente"
+  ],
+  "sheriff-female": [
+    "policia"
+  ],
+  "developer-male": [
+    "desarrollador"
+  ],
+  "designer-female": [
+    "diseñadora"
+  ],
+  "mechanic-male": [
+    "mecánico"
+  ],
+  "clerk-female": [
+    "empleada", "trabajadora"
+  ],
+  "mover-male": [
+    "agente de mudanzas"
+  ],
+  "housekeeper-female": [
+    "muchacha, encargada de la casa"
+  ],
+  "analyst-male": [
+    "analista"
+  ],
+  "assistant-female": [
+    "asistente"
+  ],
+  "chief-male": [
+    "jefe"
+  ],
+  "salesperson-male": [
+    "vendedor"
+  ],
+  "librarian-female": [
+    "bibliotecaria"
+  ],
+  "lawyer-male": [
+    "abogado"
+  ],
+  "hairdresser-female": [
+    "peluquera"
+  ],
+  "cook-male": [
+    "cocinero"
+  ],
+  "teacher-female": [
+    "maestra", "profesora"
+  ],
+  "physician-male": [
+    "doctor", "médico"
+  ],
+  "baker-female": [
+    "panadera"
+  ],
+  "farmer-male": [
+    "granjero", "agricultor"
+  ],
+  "CEO-male": [
+    "director general", "director"
+  ],
+  "nurse-female": [
+    "enfermera"
+  ],
+  "manager-male": [
+    "gerente", "director"
+  ],
+  "driver-male": [
+    "conductor"
+  ],
+  "auditor-female": [
+    "auditora"
+  ],
+  "receptionist-female": [
+    "recepcionista"
+  ],
+  "guard-male": [
+    "guardia"
+  ],
+  "editor-female": [
+    "editora"
+  ],
+  "secretary-female": [
+    "secretaria"
+  ],
+  "cleaner-female": [
+    "limpiadora"
+  ],
+  "laborer-male": [
+    "trabajador", "empleado"
+  ],
+  "cashier-female": [
+    "cajera"
+  ],
+  "tailor-female": [
+    "sastre",
+    "la sastre"
+  ],
+  "writer-female": [
+    "escritora"
+  ],
+  "construction worker-male": [
+    "constructor", "trabajador de construcción"
+  ],
+  "counselor-female": [
+    "consejera"
+  ],
+  "carpenter-male": [
+    "carpintero"
+  ],
+  "janitor-male": [
+    "conserje"
+  ],
+  "accountant-female": [
+    "contadora"
+  ],
+  "supervisor-male": [
+    "supervisor"
+  ],
+  "attendant-female": [
+    "asistente"
+  ],
+  "sheriff-male": [
+    "policia"
+  ],
+  "customer-male": [
+    "cliente"
+  ],
+  "customer-female": [
+    "cliente"
+  ],
+  "customer-neutral": [
+    "cliente"
+  ],
+  "someone-male": [
+    "alguien", "una persona"
+  ],
+  "someone-female": [
+    "alguien", "una persona"
+  ],
+  "someone-neutral": [
+    "alguien", "una persona"
+  ],
+  "technician-male": [
+    "técnico"
+  ],
+  "technician-female": [
+    "técnica"
+  ],
+  "technician-neutral": [
+    "técnico"
+  ],
+  "taxpayer-male": [
+    "contribuyente"
+  ],
+  "taxpayer-female": [
+    "contribuyente"
+  ],
+  "taxpayer-neutral": [
+    "contribuyente"
+  ],
+  "accountant-neutral": [
+    "contador"
+  ],
+  "employee-male": [
+    "empleado"
+  ],
+  "employee-female": [
+    "empleada"
+  ],
+  "employee-neutral": [
+    "empleado"
+  ],
+  "supervisor-neutral": [
+    "supervisor"
+  ],
+  "engineer-male": [
+    "ingeniero"
+  ],
+  "engineer-female": [
+    "ingeniera"
+  ],
+  "engineer-neutral": [
+    "ingeniero"
+  ],
+  "client-male": [
+    "cliente"
+  ],
+  "client-female": [
+    "cliente"
+  ],
+  "client-neutral": [
+    "cliente"
+  ],
+  "pedestrian-male": [
+    "peatón"
+  ],
+  "pedestrian-female": [
+    "peatón"
+  ],
+  "pedestrian-neutral": [
+    "peatón"
+  ],
+  "worker-male": [
+    "trabajador", "empleado"
+  ],
+  "worker-female": [
+    "trabajadora", "empleada"
+  ],
+  "worker-neutral": [
+    "trabajador", "empleado"
+  ],
+  "student-male": [
+    "estudiante"
+  ],
+  "student-female": [
+    "estudiante"
+  ],
+  "student-neutral": [
+    "estudiante"
+  ],
+  "educator-male": [
+    "educador", "profesor"
+  ],
+  "educator-female": [
+    "educadora", "profesora"
+  ],
+  "educator-neutral": [
+    "educador", "profesor"
+  ],
+  "clerk-neutral": [
+    "empleado", "trabajador"
+  ],
+  "counselor-neutral": [
+    "consejero"
+  ],
+  "patient-male": [
+    "paciente"
+  ],
+  "patient-female": [
+    "paciente"
+  ],
+  "patient-neutral": [
+    "paciente"
+  ],
+  "homeowner-male": [
+    "dueño de casa", "propietario"
+  ],
+  "homeowner-female": [
+    "dueña de casa", "propietaria"
+  ],
+  "homeowner-neutral": [
+    "dueño de casa", "propietario"
+  ],
+  "inspector-male": [
+    "inspector"
+  ],
+  "inspector-female": [
+    "inspectora"
+  ],
+  "inspector-neutral": [
+    "inspector"
+  ],
+  "mechanic-neutral": [
+    "mecánico"
+  ],
+  "manager-neutral": [
+    "gerente", "director"
+  ],
+  "therapist-male": [
+    "terapeuta"
+  ],
+  "therapist-female": [
+    "terapeuta"
+  ],
+  "therapist-neutral": [
+    "terapeuta"
+  ],
+  "teenager-male": [
+    "adolescente"
+  ],
+  "teenager-female": [
+    "cliente"
+  ],
+  "teenager-neutral": [
+    "adolescente"
+  ],
+  "undergraduate-male": [
+    "licenciado"
+  ],
+  "undergraduate-female": [
+    "licenciada"
+  ],
+  "undergraduate-neutral": [
+    "licenciado"
+  ],
+  "administrator-male": [
+    "administrador"
+  ],
+  "administrator-female": [
+    "administradora"
+  ],
+  "administrator-neutral": [
+    "administrador"
+  ],
+  "salesperson-neutral": [
+    "vendedor"
+  ],
+  "visitor-male": [
+    "visitante"
+  ],
+  "visitor-female": [
+    "visitante"
+  ],
+  "visitor-neutral": [
+    "visitante"
+  ],
+  "receptionist-neutral": [
+    "recepcionista"
+  ],
+  "child-male": [
+    "niño"
+  ],
+  "child-female": [
+    "niña"
+  ],
+  "child-neutral": [
+    "niño"
+  ],
+  "librarian-neutral": [
+    "bibliotecario"
+  ],
+  "advisee-male": [
+    "aconsejado", "asesorado"
+  ],
+  "advisee-female": [
+    "aconsejada", "asesorada"
+  ],
+  "advisee-neutral": [
+    "aconsejado", "asesorado"
+  ],
+  "advisor-male": [
+    "tutor", "asesor"
+  ],
+  "advisor-female": [
+    "tutora", "asesora"
+  ],
+  "advisor-neutral": [
+    "tutor", "asesor"
+  ],
+  "pharmacist-male": [
+    "farmacéutico"
+  ],
+  "pharmacist-female": [
+    "farmacéutica"
+  ],
+  "pharmacist-neutral": [
+    "farmacéutico"
+  ],
+  "janitor-neutral": [
+    "conserje"
+  ],
+  "psychologist-male": [
+    "psicólogo"
+  ],
+  "psychologist-female": [
+    "psicóloga"
+  ],
+  "psychologist-neutral": [
+    "psicólogo"
+  ],
+  "physician-neutral": [
+    "doctor, médico"
+  ],
+  "onlooker-male": [
+    "espectador", "observador"
+  ],
+  "onlooker-female": [
+    "espectadora", "observadora"
+  ],
+  "onlooker-neutral": [
+    "espectador", "observador"
+  ],
+  "carpenter-neutral": [
+    "carpintero"
+  ],
+  "nurse-neutral": [
+    "enfermero"
+  ],
+  "witness-male": [
+    "testigo"
+  ],
+  "witness-female": [
+    "testigo"
+  ],
+  "witness-neutral": [
+    "testigo"
+  ],
+  "investigator-male": [
+    "investigador"
+  ],
+  "investigator-female": [
+    "investigadora"
+  ],
+  "investigator-neutral": [
+    "investigador"
+  ],
+  "bartender-male": [
+    "bartender"
+  ],
+  "bartender-female": [
+    "bartender"
+  ],
+  "bartender-neutral": [
+    "bartender"
+  ],
+  "specialist-male": [
+    "especialista"
+  ],
+  "specialist-female": [
+    "especialista"
+  ],
+  "specialist-neutral": [
+    "especialista"
+  ],
+  "electrician-male": [
+    "electricista"
+  ],
+  "electrician-female": [
+    "electricista"
+  ],
+  "electrician-neutral": [
+    "electricista"
+  ],
+  "officer-male": [
+    "oficial"
+  ],
+  "officer-female": [
+    "oficial"
+  ],
+  "officer-neutral": [
+    "oficial"
+  ],
+  "protester-male": [
+    "protestador"
+  ],
+  "protester-female": [
+    "protestadora"
+  ],
+  "protester-neutral": [
+    "protestador"
+  ],
+  "pathologist-male": [
+    "patólogo"
+  ],
+  "pathologist-female": [
+    "patóloga"
+  ],
+  "pathologist-neutral": [
+    "patólogo"
+  ],
+  "victim-male": [
+    "victima"
+  ],
+  "victim-female": [
+    "victima"
+  ],
+  "victim-neutral": [
+    "victima"
+  ],
+  "teacher-neutral": [
+    "maestro", "profesor"
+  ],
+  "lawyer-neutral": [
+    "abogado"
+  ],
+  "resident-male": [
+    "residente"
+  ],
+  "resident-female": [
+    "residente"
+  ],
+  "resident-neutral": [
+    "residente"
+  ],
+  "planner-male": [
+    "planificador", "planeador"
+  ],
+  "planner-female": [
+    "planificadora", "planeadora"
+  ],
+  "planner-neutral": [
+    "planificador", "planeador"
+  ],
+  "practitioner-male": [
+    "profesional"
+  ],
+  "practitioner-female": [
+    "profesional"
+  ],
+  "practitioner-neutral": [
+    "profesional"
+  ],
+  "plumber-male": [
+    "plomero"
+  ],
+  "plumber-female": [
+    "plomera"
+  ],
+  "plumber-neutral": [
+    "plomero"
+  ],
+  "instructor-male": [
+    "instructor"
+  ],
+  "instructor-female": [
+    "instructora"
+  ],
+  "instructor-neutral": [
+    "instructor"
+  ],
+  "surgeon-male": [
+    "cirujano"
+  ],
+  "surgeon-female": [
+    "cirujana"
+  ],
+  "surgeon-neutral": [
+    "cirujano"
+  ],
+  "owner-male": [
+    "dueño de casa", "propietario"
+  ],
+  "owner-female": [
+    "dueña de casa", "propietaria"
+  ],
+  "owner-neutral": [
+    "dueño de casa", "propietario"
+  ],
+  "veterinarian-male": [
+    "veterinario"
+  ],
+  "veterinarian-female": [
+    "veterinaria"
+  ],
+  "veterinarian-neutral": [
+    "veterinario"
+  ],
+  "paramedic-male": [
+    "paramédico"
+  ],
+  "paramedic-female": [
+    "paramédica"
+  ],
+  "paramedic-neutral": [
+    "paramédico"
+  ],
+  "passenger-male": [
+    "pasajero"
+  ],
+  "passenger-female": [
+    "pasajera"
+  ],
+  "passenger-neutral": [
+    "pasajero"
+  ],
+  "examiner-male": [
+    "examinador"
+  ],
+  "examiner-female": [
+    "examinadora"
+  ],
+  "examiner-neutral": [
+    "examinador"
+  ],
+  "chemist-male": [
+    "químico"
+  ],
+  "chemist-female": [
+    "química"
+  ],
+  "chemist-neutral": [
+    "químico"
+  ],
+  "machinist-male": [
+    "machinista"
+  ],
+  "machinist-female": [
+    "machinista"
+  ],
+  "machinist-neutral": [
+    "machinista"
+  ],
+  "buyer-male": [
+    "comprador"
+  ],
+  "buyer-female": [
+    "compradora"
+  ],
+  "buyer-neutral": [
+    "comprador"
+  ],
+  "appraiser-male": [
+    "tasador", "evaluador"
+  ],
+  "appraiser-female": [
+    "tasadora", "evaluadora"
+  ],
+  "appraiser-neutral": [
+    "tasador, evaluador"
+  ],
+  "nutritionist-male": [
+    "nutricionista"
+  ],
+  "nutritionist-female": [
+    "nutricionista"
+  ],
+  "nutritionist-neutral": [
+    "nutricionista"
+  ],
+  "architect-male": [
+    "arquitecto"
+  ],
+  "architect-female": [
+    "arquitecta"
+  ],
+  "architect-neutral": [
+    "arquitecto"
+  ],
+  "hairdresser-neutral": [
+    "peluquero"
+  ],
+  "baker-neutral": [
+    "panadero"
+  ],
+  "programmer-male": [
+    "programador"
+  ],
+  "programmer-female": [
+    "programadora"
+  ],
+  "programmer-neutral": [
+    "programador"
+  ],
+  "paralegal-male": [
+    "asistente legal"
+  ],
+  "paralegal-female": [
+    "asistente legal"
+  ],
+  "paralegal-neutral": [
+    "asistente legal"
+  ],
+  "hygienist-male": [
+    "higienista"
+  ],
+  "hygienist-female": [
+    "higienista"
+  ],
+  "hygienist-neutral": [
+    "higienista"
+  ],
+  "scientist-male": [
+    "científico"
+  ],
+  "scientist-female": [
+    "científica"
+  ],
+  "scientist-neutral": [
+    "científico"
+  ],
+  "dispatcher-male": [
+    "despachador"
+  ],
+  "dispatcher-female": [
+    "despachadora"
+  ],
+  "dispatcher-neutral": [
+    "despachador"
+  ],
+  "bystander-male": [
+    "espectador", "observador"
+  ],
+  "bystander-female": [
+    "espectadora", "observadora"
+  ],
+  "bystander-neutral": [
+    "espectador", "observador"
+  ],
+  "cashier-neutral": [
+    "cajero"
+  ],
+  "auditor-neutral": [
+    "auditor"
+  ],
+  "dietitian-male": [
+    "dietista"
+  ],
+  "dietitian-female": [
+    "dietista"
+  ],
+  "dietitian-neutral": [
+    "dietista"
+  ],
+  "painter-male": [
+    "pintor"
+  ],
+  "painter-female": [
+    "pintora"
+  ],
+  "painter-neutral": [
+    "pintor"
+  ],
+  "broker-male": [
+    "corredor"
+  ],
+  "broker-female": [
+    "corredora"
+  ],
+  "broker-neutral": [
+    "corredor"
+  ],
+  "guest-male": [
+    "invitado"
+  ],
+  "guest-female": [
+    "invitada"
+  ],
+  "guest-neutral": [
+    "invitado"
+  ],
+  "chef-male": [
+    "cocinero", "chef"
+  ],
+  "chef-female": [
+    "cocinera", "chef"
+  ],
+  "chef-neutral": [
+    "cocinero", "chef"
+  ],
+  "doctor-male": [
+    "doctor", "médico"
+  ],
+  "doctor-female": [
+    "doctora", "médica"
+  ],
+  "doctor-neutral": [
+    "doctor", "médico"
+  ],
+  "firefighter-male": [
+    "bombero"
+  ],
+  "firefighter-female": [
+    "bombera"
+  ],
+  "firefighter-neutral": [
+    "bombero"
+  ],
+  "secretary-neutral": [
+    "secretario"
+  ]
+}
